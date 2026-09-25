@@ -1,4 +1,4 @@
-# Steer (CFG Attention Guidance)
+# SD Steer (CFG Attention Guidance)
 
 Ten guidance methods for **Forge**, **reForge** and **Forge Classic (Neo)**, one tab each. Use one, or tick several and they run together.
 
