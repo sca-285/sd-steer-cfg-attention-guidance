@@ -1,0 +1,3 @@
+/* Steer: keep the hint to one quiet line */
+.steer-hint { margin: 0 0 4px 0 !important; }
+.steer-hint p { margin: 0 !important; font-size: 0.9em; opacity: 0.7; }
