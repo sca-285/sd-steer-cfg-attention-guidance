@@ -20,7 +20,7 @@ Ten guidance methods for **Forge**, **reForge** and **Forge Classic (Neo)**, one
 Extensions → Install from URL, or copy the `sd-webui-steer` folder into `extensions/`. Restart the WebUI. The **Steer (CFG Attention Guidance)** accordion appears in txt2img and img2img.
 
 ```bash
-git clone (https://github.com/sca-285/sd-steer-cfg-attention-guidance.git)
+git clone https://github.com/sca-285/sd-steer-cfg-attention-guidance.git
 ```
 
 ## Use
